@@ -1,1 +1,30 @@
+🐉 Kydras OSINT Master Cheat Sheet 🐉
 
+✅ Username Recon:
+cd ~/sherlock && python3 sherlock.py username
+python3 ~/Kydras-OSINT/tools/username-checker.py
+
+✅ Phone Number Recon:
+cd ~/phoneinfoga && python3 phoneinfoga.py -n +15551234567
+
+✅ XSS Testing:
+cd ~/XSStrike && python3 xsstrike.py -u "http://target.com/page.php?q=test"
+
+✅ Web Target Recon:
+cd ~/ReconDog && python dog
+
+✅ Domain & DNS Recon:
+bash ~/Kydras-OSINT/tools/domain-recon-lite.sh
+
+✅ Quick Manual Recon:
+whois target.com
+dig target.com any
+nslookup target.com
+ping target.com
+
+✅ Pro Tips:
+- Use proxychains with Orbot for anonymity
+- Save loot/screenshots to /sdcard/Kydras_Loot/
+- Use Termux session backups for mobile persistence
+
+🐉 Nothing Is Off Limits — Kydras OSINT Complete
