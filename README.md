@@ -1,6 +1,11 @@
 
 # 🐉 Kydras by K
 
+![Linux](https://img.shields.io/badge/platform-Linux-blue)
+![Shell](https://img.shields.io/badge/language-Bash-green)
+![Stars](https://img.shields.io/github/stars/Kydras8/Kydras-OSINT.svg)
+![License](https://img.shields.io/badge/license-MIT-purple)
+
 Welcome — I’m **K**, a cybersecurity student and Red Team enthusiast building hands-on tools for offensive security, OSINT, and stealth ops.
 
 Currently focused on:
