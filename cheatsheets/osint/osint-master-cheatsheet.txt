@@ -1,0 +1,40 @@
+# 🟣 Profile README Badges:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kydras8&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kydras8&layout=compact&theme=dark)
+
+---
+
+# 🟣 Kydras-OSINT Badges:
+![Linux](https://img.shields.io/badge/platform-Linux-blue)
+![Shell](https://img.shields.io/badge/language-Bash-green)
+![Stars](https://img.shields.io/github/stars/Kydras8/Kydras-OSINT.svg)
+![License](https://img.shields.io/badge/license-MIT-purple)
+
+---
+
+# 🟣 Kydras-Playbooks Badges:
+![Playbooks](https://img.shields.io/badge/type-Red_Team_Playbooks-red)
+![Markdown](https://img.shields.io/badge/language-Markdown-lightgrey)
+![Stars](https://img.shields.io/github/stars/Kydras8/Kydras-Playbooks.svg)
+![License](https://img.shields.io/badge/license-MIT-purple)
+
+---
+
+# 🟣 Kydras-Lite Badges:
+![Platform](https://img.shields.io/badge/platform-Linux%20%7C%20Termux-black)
+![Shell](https://img.shields.io/badge/language-Bash-green)
+![Lite](https://img.shields.io/badge/type-Lite%20Toolkit-brightgreen)
+![Stars](https://img.shields.io/github/stars/Kydras8/Kydras-Lite.svg)
+
+---
+
+# 🟣 Kydras-Payloads Badges:
+![Payloads](https://img.shields.io/badge/type-Custom_Payloads-blueviolet)
+![Language](https://img.shields.io/badge/language-Mixed-lightgrey)
+![Stars](https://img.shields.io/github/stars/Kydras8/Kydras-Payloads.svg)
+![License](https://img.shields.io/badge/license-MIT-purple)
+
+---
+
+# 🟣 General Extras (Optional):
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Kydras8)

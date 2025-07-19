@@ -1,0 +1,7 @@
+# Basic Phishing Setup Guide
+
+1. Clone target site using HTTrack or Blackeye
+2. Setup local server with Apache or PHP
+3. Use ngrok or Cloudflared to create tunnels
+4. Capture credentials via POST requests
+5. Optional: Integrate Evilginx2 for token stealing

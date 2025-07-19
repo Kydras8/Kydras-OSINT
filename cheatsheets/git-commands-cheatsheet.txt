@@ -1,0 +1,38 @@
+🐉 Kydras Git Commands Cheat Sheet (Termux Edition) 🐉
+
+✅ Initial Git Setup (only once per device):
+git config --global user.name "YourName"
+git config --global user.email "youremail@example.com"
+
+✅ Clone a GitHub Repository:
+git clone https://github.com/YourUsername/YourRepo.git
+cd YourRepo
+
+✅ Typical Workflow:
+git status               # Check current changes
+git add .                # Add all files
+git commit -m "Message"  # Commit changes
+git push                 # Push changes to GitHub
+git pull origin master   # Pull latest updates (or main)
+
+✅ Fix Common Problems:
+git pull --rebase origin master       # Fix push rejections (recommended)
+git fetch --all && git reset --hard origin/master   # Force sync with GitHub
+git remote -v                          # Check which GitHub repo you're connected to
+git branch -a                          # List all branches (check for master/main)
+git checkout -b new-feature            # Create a new branch (advanced)
+
+✅ Pro Tips:
+- Always pull before pushing: git pull --rebase origin master
+- Commit with meaning: "Added working script" vs "Update"
+- Use git log --oneline to check commit history
+- Clean terminal? Use 'clear'
+- See your files? Use 'ls'
+
+✅ Example Quick Push Flow:
+git pull --rebase origin master
+git add .
+git commit -m "Added new OSINT script"
+git push
+
+🐉 Nothing is off limits — Kydras Team

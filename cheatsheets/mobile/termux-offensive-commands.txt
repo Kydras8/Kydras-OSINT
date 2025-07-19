@@ -1,0 +1,7 @@
+# Termux Mobile Red Team Basics
+
+- pkg install git python nmap
+- git clone https://github.com/Kydras8/Kydras-OSINT
+- ifconfig, nmap, sqlmap from Termux
+- tor service + proxychains
+- ngrok/Cloudflared from Android for quick phishing tunnels

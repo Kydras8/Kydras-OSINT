@@ -1,0 +1,24 @@
+🐉 Kydras OSINT Quickstart Cheat Sheet 🐉
+
+✅ Username Recon:
+cd ~/sherlock && python3 sherlock.py username
+python3 ~/Kydras-OSINT/tools/username-checker.py
+
+✅ Phone Number Recon:
+cd ~/phoneinfoga && python3 phoneinfoga.py -n +1234567890
+
+✅ Web Target Recon:
+cd ~/ReconDog && python dog
+
+✅ Quick Manual Lookups:
+whois example.com
+nslookup example.com
+dig example.com any
+
+✅ Bonus Pro Tips:
+- Use Orbot + proxychains for stealth:
+proxychains python3 sherlock.py username
+
+- Save screenshots/loot to: /sdcard/Kydras_Loot/
+
+✅ Kydras Rule: Fast, Simple, Mobile — Nothing is off limits.
