@@ -28,3 +28,12 @@ ping target.com
 - Use Termux session backups for mobile persistence
 
 🐉 Nothing Is Off Limits — Kydras OSINT Complete
+# OSINT Master Cheatsheet
+
+- [x] WHOIS Lookup: whois domain.com
+- [x] DNS Recon: dig, nslookup, dnsrecon
+- [x] Subdomain Enum: subfinder, assetfinder
+- [x] Email Harvesting: theHarvester, hunter.io
+- [x] Social Media OSINT: sherlock, Maigret
+- [x] Breach Check: holehe, emailrep.io
+- [x] Shodan Dorks: port:22 country:"US"
