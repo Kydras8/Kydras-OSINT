@@ -1,3 +1,11 @@
+<!-- Kydras Repo Header -->
+<p align="center">
+  <strong>Kydras Systems Inc.</strong><br/>
+  <em>Nothing is off limits.</em>
+</p>
+
+---
+
 
 # 🐉 Kydras by K
 
@@ -48,3 +56,4 @@ My goal: **real-world Red Team tools built to run anywhere — especially on mob
 ---
 
 > *“Amateurs practice until they get it right; professionals practice until they can’t get it wrong.”*
+
